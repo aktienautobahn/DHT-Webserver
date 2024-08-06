@@ -1,0 +1,6 @@
+.vscode
+test/__pycache__/
+.vscode/settings.json
+.DS_Store
+build
+logfile.txt
