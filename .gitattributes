@@ -1,2 +1,3 @@
 *.py linguist-vendored
 *.txt linguist-vendored
+*.lua linguist-vendored
